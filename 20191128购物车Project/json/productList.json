@@ -1,0 +1,6 @@
+[
+	{"id":"a001","proName":"格力空调","price":"3699","engery":"三级能效","imgsrc":"imges/1.png"},
+	{"id":"a002","proName":"美的空调","price":"4699","engery":"一级能效","imgsrc":"imges/2.png"},
+	{"id":"a003","proName":"长虹空调","price":"3599","engery":"二级能效","imgsrc":"imges/3.png"},
+	{"id":"a004","proName":"TCL王牌空调","price":"2699","engery":"三级能效","imgsrc":"imges/4.png"}
+]
